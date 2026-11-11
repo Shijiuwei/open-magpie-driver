@@ -1,0 +1,5 @@
+title: "open-magpie-driver"
+description: "High availability  and network topology specifications for yetone/magpie - Enhanced performance edition with automated verification."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
